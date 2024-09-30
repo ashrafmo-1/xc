@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "startTime" : "2026-10-01T00:00:00Z" ,
+    "endTime" : "2026-10-06T23:59:59Z" ,
+    "staffId": 912,
+    "staffName": "ashraf",
+    "totalHours": 85,
+    "note": "Lorem adipisicing elit debitis"
+  }
+]
