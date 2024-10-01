@@ -8,7 +8,8 @@ const Tesckets = () => {
   const allTickets = async () => {
     try {
       const response = await axios.get(
-        "http://localhost:5173/data/tickets.json"
+        // "http://localhost:5173/data/tickets.json"
+        "/data/tickets.json"
       );
       setTickets(response.data);
     } catch (error) {
